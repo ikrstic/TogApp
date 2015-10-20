@@ -12,7 +12,7 @@
 			"UniqueId": "Pocetna",
 			"Title": "Почетна",
 			"Subtitle": "почетна",
-			"ImagePath": "/pocetna",
+			"ImagePath": "https://ikrstic.github.io/TogApp/icons/pocetna.png",
 			"Description": "",
 			"Items": [
 				{
@@ -29,7 +29,7 @@
 			"UniqueId": "TuristickaPonuda",
 			"Title": "Туристичка понуда",
 			"Subtitle": "историјске, културне и друге знаменитости",
-			"ImagePath": "/tponuda",
+			"ImagePath": "https://ikrstic.github.io/TogApp/icons/tponuda.png",
 			"Description": "",
 			"Items": [
 				{
@@ -43,8 +43,8 @@
 						 "Унутрашњост", 
 						 "Главнина живописа грачаничког представља најуспелије достигнуће Милутинове дворске сликарске школе и дело је чувених солунских живописаца Михаила и Јевтихија и скупине њихових ученика. Најстарије и најбоље фреске су у унутрашњој припрати. Оне су из времена око 1321. године и одлично су очуване. У Грачаници је, први пут у старом српском сликарству, насликана усправно у виду увис разгранате лозе устројена лоза Немањића, са 16 портрета.На улазу у цркву налазе се, један насупрот другом, портрети ктитора краља Милутина и његове жене Симониде. Краљ Милутин при крају своје владавине, сазидавши архитектонски драгуљ, манастир Грачаницу, краљ Милутин је богато обдарио метосима, земљом и људима, старајући се о њеном процвату. Даровна повеља је у целости исписана на зиду цркве на коју се односи. Ова повеља налази се у десној капели, поред олтара, испод велике фреске Пророка Илије. Повеља је исписана на белом зиду фреско техником, меко-црном бојом и рашком редакцијом српскословенског језика.  Манастир Грачаница је општежитељни манастир у коме од краја Другог светског рата живи монашко сестринство. Монашки живот и служење народу увек су, кроз историју, биле основне активности грачаничких монаха и монахиња. Уз свакодневне молитве и богослужења, манастир Грачаница био је и важан просветни центар за косовско-метохијске Србе у време турског ропства, а у манастиру је још у првој половини XVI века постојала прва штампарија. Под сводовима ове древне Милутинове задужбине духовно су се образовале генерације свештеника и монаха који су својим духовним и просветитељским радом оставили јак печат на историју српског народа са ових простора. извор: zaduzbine-nemanjica.rs"
 						 ],
-					"ImagePath": "http://ikrstic.github.io/TOG1/manastir_gracanica_2.jpg",
-					"ListImagePath": "http://ikrstic.github.io/TOG1/manastir_gracanica_2_small.jpg",
+					"ImagePath": "https://ikrstic.github.io/TogApp/images/manastir_gracanica_2.jpg",
+					"ListImagePath": "https://ikrstic.github.io/TogApp/images/manastir_gracanica_2_small.jpg",
 					"Koordinate1": 42.598398, 
 					"Koordinate2": 21.192819,
       				"Izgradjeno": "XIV век"
@@ -71,8 +71,8 @@
 					"Title": "Црква Свете Недеље",
 					"Location":"Горња Гуштерица",
 					"Description": "Црква Свете Недеље Црква Свете Недеље налази се у селу Горња Гуштерица и саграђена је 1986. године.",
-					"ImagePath": "http://ikrstic.github.io/TOG1/crkva_svete_nedelje_g.jpg",
-					"ListImagePath": "http://ikrstic.github.io/TOG1/crkva_svete_nedelje_g_small.jpg",
+					"ImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svete_nedelje_g.jpg",
+					"ListImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svete_nedelje_g_small.jpg",
 					"Koordinate1": 42.5500256, 
 					"Koordinate2": 21.2078380,
       				"Izgradjeno": "XX век"
@@ -82,8 +82,8 @@
 					"Title": "Црква Свете Преподобномученице Параскеве",
 					"Location":"Лапље селo",
 					"Description": "Црква Свете Преподобномученице Параскеве Црква Свете Преподобномученице Параскеве је саграђена у 1938. године на темељима цркве из деветнаестог века и налази се у Лапљем селу на пет километара од Грачанице.",
-					"ImagePath": "http://ikrstic.github.io/TOG1/crkva_svete_paraskeve_lapljeselo.png",
-					"ListImagePath": "http://ikrstic.github.io/TOG1/crkva_svete_paraskeve_lapljeselo_small.png",
+					"ImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svete_paraskeve_lapljeselo.png",
+					"ListImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svete_paraskeve_lapljeselo_small.png",
 					"Koordinate1": 42.5962926, 
 					"Koordinate2": 21.1318692,
       				"Izgradjeno": "XX век"
@@ -93,8 +93,8 @@
 					"Title": "Црква Свете Тројице",
 					"Location":"Скуланево",
 					"Description": "Црква Свете Тројице Црква Свете Тројице налази се у селу Скуланево, црква је саграђена 1989. године",
-					"ImagePath": "http://ikrstic.github.io/TOG1/crkva_svete_trojice_skulanevo.png",
-					"ListImagePath": "http://ikrstic.github.io/TOG1/crkva_svete_trojice_skulanevo_small.png",
+					"ImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svete_trojice_skulanevo.png",
+					"ListImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svete_trojice_skulanevo_small.png",
 					"Koordinate1": 42.5630670, 
 					"Koordinate2": 21.0796639,
       				"Izgradjeno": "XX век"
@@ -104,8 +104,8 @@
 					"Title": "Црква Светог Димитрија",
 					"Location":"Сушицa",
 					"Description": "Црква Светог Димитрија Црква Светог Димитрија је Најстарија црква у општини Грачаница је црква Светог Димитрија у Сушици (2 км јужно од Грачанице). Ова црква је задужбина Јелене Анжујске, супруге Краља Стефана Уроша I и мајке краља Милутина и краља Драгутина. Грађена је крајем XIII века али не постоје записи о тачној години изградње. Црква је потпуно уништена почетком XIX века, од стране турског феудалца из Приштине, а камен ове цркве употребљен је за зидање мостова на реци Ситници. Обновљена је 1989. године претежно донацијом мештана Сушице. Тренутно је у изградњи парохијски дом, а ради се и на постављању звоника који је поклон Грчке. Ради се и на осликавању фресака и украшавању ентеријера.",
-					"ImagePath": "http://ikrstic.github.io/TOG1/crkva_svetog_dimitrija_susica_2.png",
-					"ListImagePath": "http://ikrstic.github.io/TOG1/crkva_svetog_dimitrija_susica_2_small.png",
+					"ImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svetog_dimitrija_susica_2.png",
+					"ListImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svetog_dimitrija_susica_2_small.png",
 					"Koordinate1": 42.5779987, 
 					"Koordinate2": 21.2166983,
       				"Izgradjeno": "XIII век"
@@ -115,8 +115,8 @@
 					"Title": "Црква Светог Глигорија Богослова",
 					"Location":"Ливађе",
 					"Description": "Црква Светог Глигорија Богослова Црква Светог Глигорија Богослова налази се у селу Ливађе и саграђена је 1935. године",
-					"ImagePath": "http://ikrstic.github.io/TOG1/crkva_svetog_gligorija_blagoslova_livadje.png",
-					"ListImagePath": "http://ikrstic.github.io/TOG1/crkva_svetog_gligorija_blagoslova_livadje_small.png",
+					"ImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svetog_gligorija_blagoslova_livadje.png",
+					"ListImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svetog_gligorija_blagoslova_livadje_small.png",
 					"Koordinate1": 42.5602061, 
 					"Koordinate2": 21.1675155,
       				"Izgradjeno": "XX век"
@@ -126,8 +126,8 @@
 					"Title": "Црква Светог кнеза Лазара",
 					"Location":"Доња Гуштерица",
 					"Description": "Црква Светог кнеза Лазара Црква Светог кнеза Лазара налази се на седам километара од Грачанице у месту Доња Гуштерица, ова црква сагреађена је 1905. године.",
-					"ImagePath": "http://ikrstic.github.io/TOG1/crkva_svetog_kneza_lazara_d.png",
-					"ListImagePath": "http://ikrstic.github.io/TOG1/crkva_svetog_kneza_lazara_d_small.png",
+					"ImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svetog_kneza_lazara_d.png",
+					"ListImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svetog_kneza_lazara_d_small.png",
 					"Koordinate1": 42.5455407, 
 					"Koordinate2": 21.1812453,
       				"Izgradjeno": "XX век"
@@ -137,8 +137,8 @@
 					"Title": "Црква Светог Пантелејмона",
 					"Location":"Лепина",
 					"Description": "Црква Светог Пантелејмона Црква Светог Пантелејмона налази се у селу Лепина, радови на изградњи ове цркве запошети су 1996. године а црква је освештана 2011. године.",
-					"ImagePath": "http://ikrstic.github.io/TOG1/crkva_svetog_pantelejmona_lepina.png",
-					"ListImagePath": "http://ikrstic.github.io/TOG1/crkva_svetog_pantelejmona_lepina_small.png",
+					"ImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svetog_pantelejmona_lepina.png",
+					"ListImagePath": "https://ikrstic.github.io/TogApp/images/crkva_svetog_pantelejmona_lepina_small.png",
 					"Koordinate1": 42.5685307, 
 					"Koordinate2": 21.0703648,
       				"Izgradjeno": "XX век"
@@ -171,7 +171,7 @@
 			"UniqueId": "Manifestacije",
 			"Title": "Манифестације",
 			"Subtitle": "листа догађаја са занимљивим садржајима",
-			"ImagePath": "",
+			"ImagePath": "https://ikrstic.github.io/TogApp/icons/manifestacije.png",
 			"GroupImagePath": "",
 			"Description": "",
 			"Items": [
@@ -192,7 +192,7 @@
 			"UniqueId": "Smestaj",
 			"Title": "Смештај",
 			"Subtitle": "листа хотела, мотела и одмаралишта са понудом, локацијом и контакт детаљима",
-			"ImagePath": "",
+			"ImagePath": "https://ikrstic.github.io/TogApp/icons/smestsaj.png",
 			"GroupImagePath": "",
 			"Description": "",
 			"Items": [
@@ -213,7 +213,7 @@
 			"UniqueId": "Restorani",
 			"Title": "Ресторани",
 			"Subtitle": "Листа ресторана и њихова понуда са локацијом и контакт детаљима",
-			"ImagePath": "",
+			"ImagePath": "https://ikrstic.github.io/TogApp/icons/restorani.png",
 			"GroupImagePath": "",
 			"Description": "",
 			"Items": [
@@ -234,7 +234,7 @@
 			"UniqueId": "Info",
 			"Title": "Инфо",
 			"Subtitle": "информације од општег значаја",
-			"ImagePath": "",
+			"ImagePath": "https://ikrstic.github.io/TogApp/icons/info.png",
 			"GroupImagePath": "",
 			"Description": "",
 			"Items": [
