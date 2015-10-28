@@ -1,39 +1,40 @@
-[
+{"Groups": [
   {
-    slug: "codestock-2014",
-    name: "CodeStock 2014",
-    start: "/Date(1405036800000)/",
-    end: "/Date(1405123200000)/",
-    callForSpeakersOpens: "/Date(1391619909000)/",
-    callForSpeakersCloses: "/Date(1391619909000)/",
-    registrationOpens: "/Date(1391619909000)/",
-    registrationCloses: "/Date(1405036800000)/",
-    description: "CodeStock is a two day event (July 11th & July 12th of 2014) for technology and information exchange. Created by the community, for the community â€“ this is not an industry trade show pushing the latest in marketing as technology, but a gathering of working professionals sharing knowledge and experience. Join us at CodeStock 2014 and move into the future.",
-    lastUpdated: "/Date(1392149694455)/",
-    address: {
-      streetNumber: 0,
-      city: "Knoxville",
-      state: "TN",
-      postalArea: "US"
+    "slug": "codestock-2014",
+    "name": "CodeStock 2014",
+    "start": "/Date(1405036800000)/",
+    "end": "/Date(1405123200000)/",
+    "callForSpeakersOpens": "/Date(1391619909000)/",
+    "callForSpeakersCloses": "/Date(1391619909000)/",
+    "registrationOpens": "/Date(1391619909000)/",
+    "registrationCloses": "/Date(1405036800000)/",
+    "description": "CodeStock is a two day event (July 11th & July 12th of 2014) for technology and information exchange. Created by the community, for the community â€“ this is not an industry trade show pushing the latest in marketing as technology, but a gathering of working professionals sharing knowledge and experience. Join us at CodeStock 2014 and move into the future.",
+    "lastUpdated": "/Date(1392149694455)/",
+    "address": {
+      "streetNumber": 0,
+      "city": "Knoxville",
+      "state": "TN",
+      "postalArea": "US"
     },
-    imageUrl: "http://tekconf.blob.core.windows.net/images/conferences/codestock-2014.png",
-    imageUrlSquare: "http://tekconf.blob.core.windows.net/images/conferences/codestock-2014-square.jpg",
-    isLive: true,
-    homepageUrl: "http://www.codestock.org/",
-    position: [
+    "imageUrl": "http://tekconf.blob.core.windows.net/images/conferences/codestock-2014.png",
+    "imageUrlSquare": "http://tekconf.blob.core.windows.net/images/conferences/codestock-2014-square.jpg",
+    "isLive": true,
+    "homepageUrl": "http://www.codestock.org/",
+    "position": [
       -83.9207392,
       35.9606384
     ],
-    defaultTalkLength: 60,
-    rooms: [ ],
-    sessionTypes: [ ],
-    subjects: [ ],
-    tags: [ ],
-    sessions: [ ],
-    numberOfSessions: 0,
-    isAddedToSchedule: false,
-    isOnline: false,
-    dateRange: "July 11 - 12, 2014",
-    formattedAddress: "Knoxville, TN"
+    "defaultTalkLength": 60,
+    "rooms": [ ],
+    "sessionTypes": [ ],
+    "subjects": [ ],
+    "tags": [ ],
+    "sessions": [ ],
+    "numberOfSessions": 0,
+    "isAddedToSchedule": false,
+    "isOnline": false,
+    "dateRange": "July 11 - 12, 2014",
+    "formattedAddress": "Knoxville, TN"
   }
 ]
+}
